@@ -1,5 +1,5 @@
 #include <colmap/sensor/models.h>
-#include <colmap/base/projection.h>
+#include <colmap/scene/projection.h>
 #include <colmap/util/types.h>
 
 #include <ceres/ceres.h>
