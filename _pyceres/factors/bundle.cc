@@ -1,4 +1,4 @@
-#include <colmap/camera/models.h>
+#include <sensor/models.h>
 #include <colmap/base/projection.h>
 #include <colmap/util/types.h>
 
